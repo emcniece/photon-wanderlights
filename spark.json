@@ -1,7 +1,7 @@
 {
   "name": "Wanderlights",
   "author": "Adam Elliot",
-  "license": "MIT",
+  "license": "Apache",
   "version": "0.0.1",
   "description": "A packaging of Wanderlights for sparkcore and photon",
   "namespace": "Wanderlights"
