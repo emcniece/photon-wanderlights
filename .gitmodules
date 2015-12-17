@@ -1,0 +1,6 @@
+[submodule "firmware/wanderlights"]
+	path = firmware/wanderlights
+	url = https://github.com/limbicmedia/wanderlights.git
+[submodule "firmware/LightString"]
+	path = firmware/LightString
+	url = https://github.com/adamelliot/LightString.git
